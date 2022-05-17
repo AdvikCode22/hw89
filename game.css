@@ -1,0 +1,15 @@
+body{
+	background-color: antiquewhite;
+}
+
+.login{
+	float: none;
+	background-color: lightgreen;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+.button1{
+	width: 15%;
+	font-size: 20px;
+}
